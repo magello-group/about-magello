@@ -1,17 +1,32 @@
-# About Magello Group (publ)
+# 🚀 Nya möjligheter på Magello Group!
 
-**We are a Swedish software consulting company based in Stockholm and Linköping. Magello focuses on Integration, Digital Services & Cloud.**
+Magello är det inkluderande konsultbolaget. Vi är öppna, trygga och såklart väldigt duktiga på det vi gör. Om du är en person som tycker att gemenskap, teamkraft och att skratta är det viktigaste för att du ska kunna gör det bästa jobbet så är vi företaget för dig.
 
-We belive in open and transparent team work. Our vision is to `Solve the clients acctual needs`. By that we mean bringing our senior expertice and broad experience to our customers and together find the solution that fits the customers unique intent and goals. The hard part about building great digital services is not the technical knowledge, but in communication and understanding needs. That’s why we are not bound to specific programming languages or vendors, we work with most common language, frameworks and cloud vendors.
+## Vi söker alltid efter 
 
-… and since You are here on Github, yes we do like open source.
+Vi är produkt och teknikoberoende. Vi utvecklar i allt från Node, till Go men huvudsakligen inom Java och .Net ekosystemen, och vi gillar open source.
 
-Sounds interesting?
+* Fullstack
+* Backend
+* Frontend
+* DevOps
 
-Drop me a message!
+[Läs mer på jobb.magello.se](https://jobb.magello.se/jobs)
 
-📧 patric.jansson@magello.se
+Vi finns i Stockholm och Linköping och hjälper några av Sveriges mäst kända varumärken med integrationer, cloud och digitala tjänster. 
 
-https://jobb.magello.se
+Har du ett projekt eller repo du är stolt över, plinga mig 😃 så kanske vi kan bli kollegor!
 
-https://magello.se
+Puss & kram
+
+_Patric_
+
+___
+
+E-post: [patric.jansson@magello.se](mailto:patric.jansson@magello.se)
+
+Linkedin: [patricjansson](http://linkedin.com/in/patricjansson/)
+
+Twitter: [patricjansson](https://twitter.com/patricjansson)
+
+Instagram: [magello_patric](http://instagram.com/magello_patric/)
