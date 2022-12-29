@@ -15,7 +15,7 @@ Vi är produkt och teknikoberoende. Vi utvecklar i allt från Kotlin, Python & t
 
 [Läs mer på jobb.magello.se](https://jobb.magello.se/jobs)
 
-Vi finns i Stockholm och Linköping och hjälper några av Sveriges mäst kända varumärken med integrationer, cloud och digitala tjänster. 
+Vi finns i Stockholm och Linköping och hjälper några av Sveriges mäst kända varumärken med **integrationer**, **cloud** och **digitala tjänster**. 
 
 Har du ett projekt eller repo du är stolt över, plinga mig 😃 så kanske vi kan bli kollegor!
 
