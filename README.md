@@ -1,4 +1,4 @@
-![Magello Group Logotype](https://github.com/r2m/about-magello/img/Magello_Magenta_RGB_white_bg.png)
+![Magello Group Logotype](/img/Magello_Magenta_RGB_white_bg.png)
 
 # 🚀 Nya möjligheter på Magello Group!
 
