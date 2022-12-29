@@ -6,7 +6,7 @@ Magello är det inkluderande konsultbolaget. Vi är öppna, trygga och såklart 
 
 ## Vi söker alltid efter 
 
-Vi är produkt och teknikoberoende. Vi utvecklar i allt från Node, till Go men huvudsakligen inom Java och .Net ekosystemen, och vi gillar open source.
+Vi är produkt och teknikoberoende. Vi utvecklar i allt från Kotlin, Python & till Go men huvudsakligen inom Java och .Net ekosystemen, och vi gillar open source.
 
 * Fullstack
 * Backend
