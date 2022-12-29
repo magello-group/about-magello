@@ -1,3 +1,5 @@
+![Magello Group Logotype](https://github.com/r2m/about-magello/img/Magello_Magenta_RGB_white_bg.png)
+
 # 🚀 Nya möjligheter på Magello Group!
 
 Magello är det inkluderande konsultbolaget. Vi är öppna, trygga och såklart väldigt duktiga på det vi gör. Om du är en person som tycker att gemenskap, teamkraft och att skratta är det viktigaste för att du ska kunna gör det bästa jobbet så är vi företaget för dig.
