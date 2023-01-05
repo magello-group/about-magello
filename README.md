@@ -1,4 +1,4 @@
-![Magello Group Logotype](/img/Magello_Magenta_RGB_white_bg.png)
+![Magello Group Logotype](/logotype/PNG_RGB/Magello_Cyan_RGB.png)
 
 # 🚀 Nya möjligheter på Magello Group!
 
