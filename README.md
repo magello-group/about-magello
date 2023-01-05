@@ -12,6 +12,7 @@ Vi är produkt och teknikoberoende. Vi utvecklar i allt från Kotlin, Python & t
 * Backend
 * Frontend
 * DevOps
+* ... och andra intressanta personer!
 
 [Läs mer på jobb.magello.se](https://jobb.magello.se/jobs)
 
