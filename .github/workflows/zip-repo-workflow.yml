@@ -1,0 +1,13 @@
+name: Zip repo on push
+on: [push]
+jobs:
+  Zip-Repo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: montudor/action-zip@v1
+        with:
+          args: zip -qq -r about-magello.zip .
+      - uses: actions/upload-artifact@v2
+        with:
+          name: about-magello.zip
