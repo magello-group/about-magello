@@ -8,6 +8,8 @@ jobs:
       - uses: montudor/action-zip@v1
         with:
           args: zip -qq -r about-magello.zip .
-      - uses: actions/upload-artifact@v2
+      - uses: EndBug/add-and-commit@v9
         with:
-          name: about-magello.zip
+          add: 'about-magello.zip'
+          message: 'Updated about-magello.zip'
+          default_author: github_actions
