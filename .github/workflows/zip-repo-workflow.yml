@@ -12,4 +12,5 @@ jobs:
         with:
           add: 'about-magello.zip'
           message: 'Updated about-magello.zip'
-          default_author: github_actions
+          default_author: patricjansson
+          #default_author: github_actions
