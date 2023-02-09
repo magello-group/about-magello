@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: montudor/action-zip@v1
         with:
-          args: zip -qq -x about-magello.zip -r about-magello.zip .
+          args: rm -f about-magello.zip &&  zip -r about-magello.zip . -x "*.git*" -x "*.DS_Store"
       - uses: EndBug/add-and-commit@v9
         with:
           add: 'about-magello.zip'
