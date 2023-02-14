@@ -1,35 +1,14 @@
-![Magello Group Logotype](/logotype/PNG_RGB/Magello_Magenta_RGB.png)
+# Magello i korthet
+På Magello strävar vi efter att lösa kundens egentliga problem. Genom en tydlig profil inom hållbar digitalisering av företags och organisationers tjänster och produkter. Detta gör vi utifrån våra kontor i Stockholm och Linköping med räckvidd över hela landet.
 
-# 🚀 Nya möjligheter på Magello Group!
+Vi arbetar som konsulter inom områdena **Integration**, **Digitala Tjänster** och **Cloud** mot en bred kundkrets, allt ifrån företag i startup-fas till stora företag, myndigheter och organisationer.
 
-Magello är det inkluderande konsultbolaget. Vi är öppna, trygga och såklart väldigt duktiga på det vi gör. Om du är en person som tycker att gemenskap, teamkraft och att skratta är det viktigaste för att du ska kunna gör det bästa jobbet så är vi företaget för dig.
+Inom **Digitala tjänster** fokuserar vi där kunderbjudanden och intäktsströmmar för våra kunders digitala produkter och tjänster skapas. E-handel, digitala produkter och andra online-tjänster ställer allt högre krav på arkitektur, utveckling och ett agilt arbetssätt. Vi bidrar från idé till en robust och förvaltningsbar lösning.
 
-## Vi söker alltid efter 
+Modern systemintegration är en viktig förutsättning för snabbare digitaliserings– och innovationstakt. Med lång erfarenhet inom **Integration** hjälper vi våra kunder att knyta ihop sina affärsprocesser både inom företaget och med sina kunder, leverantörer och partners.
 
-Vi är produkt och teknikoberoende. Vi utvecklar i allt från Kotlin, Python & till Go men huvudsakligen inom Java och .Net ekosystemen, och vi gillar open source.
+Vårt område **Cloud** hjälper våra kunder att dra nytta av modern distribuerad teknik för att skapa skalbara och kostnadseffektiva lösningar för både publika och privata molntjänster. Med rätt kompetens, arbetsmetodik och teknik tar vi snabbt fram säkra och stabila molnlösningar utifrån varje kunds behov.
 
-* Fullstack
-* Backend
-* Frontend
-* DevOps
-* ... och andra intressanta personer!
+Våra tjänster levereras enligt tre olika modeller. Vi stärker upp våra kunders utvecklingsorganisationer med konsulter och team från **Magello Consulting**. Via **Magello Solutions** tar vi helhetsansvar för lösningar och erbjuder en kostnadseffektiv modell för kunder med avgränsade behov. Inom **Magello Connect** erbjuder vi konsulter från vårt partnernätverk för att kunna täcka upp kundernas behov av IT- konsulter oavsett område. Partnernätverket på över 5000 kvalificerade konsulter gör att vi alltid kan hitta rätt kompetens till vår kund.
 
-[Läs mer på jobb.magello.se](https://jobb.magello.se/jobs)
-
-Vi finns i Stockholm och Linköping och hjälper några av Sveriges mäst kända varumärken med **integrationer**, **cloud** och **digitala tjänster**. 
-
-Har du ett projekt eller repo du är stolt över, plinga mig 😃 så kanske vi kan bli kollegor!
-
-Puss & kram
-
-_Patric_
-
-___
-
-E-post: [patric.jansson@magello.se](mailto:patric.jansson@magello.se)
-
-Linkedin: [patricjansson](http://linkedin.com/in/patricjansson/)
-
-Twitter: [patricjansson](https://twitter.com/patricjansson)
-
-Instagram: [magello_patric](http://instagram.com/magello_patric/)
+**Våra värdeord** är grunden till hur vi agerar och uppfattas av marknaden och framtida kollegor. Som ett modernt, självrganiserande företag med gemensam målbild så kan vi möta kunder med en tydlighet och ett gemensamt budskap om värdet att samarbeta med oss. Vårt aktiva arbete med dessa värdeord är även förutsättningen för oss att kunna växa vidare, utvecklas som bolag och bli fler passionerade kollegor som vill lösa kundens egentliga problem.
