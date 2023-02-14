@@ -11,8 +11,8 @@ read -p "Beskriv vad du uppdaterade (Max 100tkn): " msg
 if [ -z "${msg}" ]; then
     msg="Uppdaterade fil(er)"
 fi
-
-echo "3. Sparar alla filer på Github"
 git commit -m '$msg'
 
-echo "4. Klart!"
+echo "3. Sparar alla filer på Github"
+git push
+echo "\n4. Klart!\n"
