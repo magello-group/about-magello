@@ -40,11 +40,11 @@
 **PMS**: 185C 
 
 
-## ![#ECOO8C](https://placehold.co/15x15/ECOO8C/ECOO8C.png) Magenta
+## ![#ec00bc](https://placehold.co/15x15/ec00bc/ec00bc.png) Magenta
 **CMYK**: 0, 100, 41, 
 
 **RGB**: 236, 0, 140, 93
 
-**HEX**: #ECOO8C
+**HEX**: #EC008C
 
 **PMS**: 219C 
