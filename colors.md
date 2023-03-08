@@ -1,15 +1,21 @@
 
 ## ![#009EE3](https://placehold.co/15x15/009EE3/009EE3.png) Blå
 **CMYK**: 100, 30, 0, 11
+
 **RGB**: 0, 158, 277, 89 
+
 **HEX**: #009EE3
+
 **PMS**: 2925C 
  
 ## ![#00A65D](https://placehold.co/15x15/00A65D/00A65D.png) Grön
 
 **CMYK**: 100, 0, 44, 35 
+
 **RGB**: 0, 166, 93, 65
+
 **HEX**: #00A65D 
+
 **PMS**: 7739C 
 
 ## ![#ffdd00](https://placehold.co/15x15/ffdd00/ffdd00.png) Gul
