@@ -27,7 +27,7 @@
 
 **PMS**: 107C
 
-## ![#FDB913](https://placehold.co/15x15/009EE3/FDB913.png) Senapsgul
+## ![#FDB913](https://placehold.co/15x15/FDB913/FDB913.png) Senapsgul
 **CMYK**: 0, 27, 92, 1
 
 **RGB**: 253, 185, 19, 99
