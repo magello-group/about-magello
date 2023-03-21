@@ -1,7 +1,7 @@
 # Magello i korthet
-På Magello strävar vi efter att lösa kundens egentliga problem. Genom en tydlig profil inom hållbar digitalisering av företags och organisationers tjänster och produkter. Detta gör vi utifrån våra kontor i Stockholm och Linköping med räckvidd över hela landet.
+På [Magello strävar vi efter att lösa kundens egentliga problem](https://magello.se/). Genom en tydlig profil inom hållbar digitalisering av företags och organisationers tjänster och produkter. Detta gör vi utifrån våra kontor i Stockholm och Linköping med räckvidd över hela landet.
 
-Vi arbetar som konsulter inom områdena **Integration**, **Digitala Tjänster** och **Cloud** mot en bred kundkrets, allt ifrån företag i startup-fas till stora företag, myndigheter och organisationer.
+Vi arbetar som konsulter inom områdena [**Integration**, **Digitala Tjänster** och **Cloud**](https://magello.se/vad-vi-gor/) mot en bred kundkrets, allt ifrån företag i startup-fas till stora företag, myndigheter och organisationer.
 
 Inom **Digitala tjänster** fokuserar vi där kunderbjudanden och intäktsströmmar för våra kunders digitala produkter och tjänster skapas. E-handel, digitala produkter och andra online-tjänster ställer allt högre krav på arkitektur, utveckling och ett agilt arbetssätt. Vi bidrar från idé till en robust och förvaltningsbar lösning.
 
