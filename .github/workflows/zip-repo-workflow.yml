@@ -1,3 +1,8 @@
+# 
+# This action zips this repository into about-magello.zip that is located
+# in the root of the repo. "about-magello.zip" is linked from https://www.magello.se
+# so people easily can download the Magello graphics and templates.
+#
 name: Zip repo on push
 on: [push]
 jobs:
