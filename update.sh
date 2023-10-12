@@ -1,7 +1,12 @@
 #!/bin/bash
 
 echo "1. Hämtar det senaste från Github"
-git pull
+pull==$(git pull)
+
+if [[ "$pull" == "Already up to date." ]]; then
+    echo "Du har inga ändringar att sync:a"
+    exit
+fi
 
 status=$(git status)
 
