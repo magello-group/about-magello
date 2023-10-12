@@ -3,6 +3,9 @@
 echo "1. Hämtar det senaste från Github"
 git pull
 
+status=$(git status)
+echo $status
+
 echo "2. Förbereder alla uppdaterade och borttagna filer för att skickas till Github"
 git add .
 
