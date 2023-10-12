@@ -4,7 +4,12 @@ echo "1. Hämtar det senaste från Github"
 git pull
 
 status=$(git status)
-echo $status
+
+if [[ "$status" == *"On branch main Your branch is up to date with"* ]]; then
+    echo "Du har inga ändringar att sync:a"
+    exit
+fi
+
 
 echo "2. Förbereder alla uppdaterade och borttagna filer för att skickas till Github"
 git add .
