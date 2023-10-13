@@ -26,7 +26,7 @@ fi
 git commit -m "$msg"
 
 echo "3. Sparar alla filer på Github"
-git push
+push=$(git push)
 
 echo ""
 echo "  ✅ Klart!"
