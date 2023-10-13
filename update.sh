@@ -6,9 +6,10 @@ pull==$(git pull)
 
 status=$(git status)
 
-if [[ "$status" == *"On branch main Your branch is up to date with"* ]]; then
+if [[ "$status" != *"Changes not staged for commit"* ]]; then
     echo ""
-    echo "  ✅  Klart - Du har inga ändringar att sync:a till Github"
+    echo "  ✅  Klart!  Du har inga lokala ändringar att sync:a till Github"
+    echo ""
     exit
 fi
 
@@ -29,5 +30,5 @@ echo "3. Sparar alla filer på Github"
 push=$(git push)
 
 echo ""
-echo "  ✅ Klart!"
+echo "  ✅ Klart! Filerna ligger på Github, och en ny about-magello.zip byggs nu."
 echo ""
