@@ -1,25 +1,24 @@
 #!/bin/bash
 
+echo ""
 echo "1. Hämtar det senaste från Github"
 pull==$(git pull)
-
-if [[ "$pull" == *"Already up to date."* ]]; then
-    echo "✅  Du har inga ändringar att sync:a\n"
-    exit
-fi
 
 status=$(git status)
 
 if [[ "$status" == *"On branch main Your branch is up to date with"* ]]; then
-    echo "✅  Du har inga ändringar att sync:a till Github\n"
+    echo ""
+    echo "  ✅  Klart - Du har inga ändringar att sync:a till Github"
     exit
 fi
 
-
 echo "2. Förbereder alla uppdaterade och borttagna filer för att skickas till Github"
+echo ""
 git add .
 
-read -p "Beskriv vad du uppdaterade (Max 100tkn): " msg
+git status
+
+read -p "👉 Beskriv vad du uppdaterade (Max 100tkn): " msg
 
 if [ -z "${msg}" ]; then
     msg="Uppdaterade fil(er)"
@@ -30,6 +29,5 @@ echo "3. Sparar alla filer på Github"
 git push
 
 echo ""
-echo ""
-echo "4. ✅ Klart!"
+echo "  ✅ Klart!"
 echo ""
