@@ -6,7 +6,7 @@ git pull > /dev/null
  
 status=$(git status)
 
-if [[ "$status" != *"Changes not staged for commit"* ]]; then
+if [[ "$status" == *"working tree clean"* ]]; then
     echo ""
     echo "  ✅  Klart!  Du har inga lokala ändringar att sync:a till Github"
     echo ""
