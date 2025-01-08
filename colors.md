@@ -57,3 +57,7 @@
 **RGB**: 236, 0, 140
 
 **HEX**: #EC008C
+
+## ![#F8F8F8](https://placehold.co/32x32/F8F8F8/F8F8F8.png) Ljusgrå
+
+**HEX**: #F8F8F8
