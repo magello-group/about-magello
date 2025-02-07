@@ -58,6 +58,12 @@
 
 **HEX**: #EC008C
 
+## ![#F7F3F3](https://placehold.co/32x32/F7F3F3/F7F3F3.png) Primärgrå
+
+**HEX**: #F7F3F3
+
 ## ![#F8F8F8](https://placehold.co/32x32/F8F8F8/F8F8F8.png) Ljusgrå
 
 **HEX**: #F8F8F8
+
+
