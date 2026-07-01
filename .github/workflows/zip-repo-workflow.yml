@@ -9,7 +9,7 @@ jobs:
   Zip-Repo:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: montudor/action-zip@v1
         with:
           args: zip -r  about-magello.zip . -x *.git* -x *.DS_Store -x about-magello.zip
